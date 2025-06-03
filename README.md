@@ -116,4 +116,6 @@ The chatbot provides friendly error messages for:
 
 For any unsupported question, the chatbot will suggest using the 'help' command to see available options.
 
-### Completion Certificate:[Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_W2Wx6ttJCfjcfB4cd_1748974291879_completion_certificate.pdf)
+### Completion Certificate: [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_W2Wx6ttJCfjcfB4cd_1748974291879_completion_certificate.pdf)
+
+### Program [Link](https://www.theforage.com/simulations/bcg/gen-ai-anlo)
